@@ -1,0 +1,16 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: consumer-server
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:10086/eureka
+#jdbc
+
+#mybatis
+
+#logging:
+ # level:
+   # com.sise: debug
