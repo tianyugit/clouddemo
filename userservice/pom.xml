@@ -26,7 +26,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.32</version>
+            <version>8.0.16</version>
         </dependency>
 
         <!-- 通用mapper,已包含mybatis和连接池，所以上面可以省去了 -->
